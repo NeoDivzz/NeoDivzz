@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello 👋, my name is Max and this is my NeoDivzz Portfolio tab. Welcome ⭐️
 <!--
 **NeoDivzz/NeoDivzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
