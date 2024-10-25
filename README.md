@@ -1,5 +1,7 @@
-## Hello 👋, my name is Max and this is my NeoDivzz Portfolio tab. 
-## Welcome ⭐️
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Max</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Unreal Engine and C++ developer from Russia 🇷🇺 </h3>
+<h3 align="center">also known as NeoDivzz</h3>  
 <!--
 **NeoDivzz/NeoDivzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
